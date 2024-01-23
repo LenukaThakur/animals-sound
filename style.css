@@ -1,0 +1,22 @@
+#heading{
+    background-color: #ff331f;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+#main{
+    background-color: #8332ac;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#footer{
+    background-color: #2191fb;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+body{
+    font-family: 'Playpen Sans', cursive;
+}
